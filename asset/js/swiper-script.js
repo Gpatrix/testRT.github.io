@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
         allowTouchMove: false, // Désactiver la possibilité de faire glisser les slides
     });
 
+    
     // Écoutez les clics sur les liens de navigation
     const navLinks = document.querySelectorAll('nav a');
     navLinks.forEach(link => {
