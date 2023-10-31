@@ -1,0 +1,13 @@
+id,parentId,name,position,image
+100,,RushATom,Leader de la [RT],asset\img\PP\RushATom.webp
+101,100,Riley,Administrateur [RT],asset\img\PP\Riley.jpg
+102,101,Papy,Gérant du groupe Multigaming,asset\img\PP\Papy.webp
+110,102,Ewaiz,Co-Gérant du groupe,asset\img\PP\Ewaiz.webp
+103,101,Remzer,Gérant du régiment Post-Scriptum,asset\img\PP\Remzer.webp
+111,103,Non assigné,Co-Gérant du régiment,
+104,101,RushATom,Gérant du régiment Squad,asset\img\PP\RushAtom.webp
+110,104,Nalil0,Co-Gérant du régiment,asset\img\PP\Nalil0.webp
+105,101,Maitrecrabe,Gérant du régiment Arma,asset\img\PP\Maitrecrabe.webp
+110,105,Renai28,Co-Gérant du régiment,asset\img\PP\Renai28.webp
+106,101,Riley,Gérant de L'escadron War-Thinder,asset\img\PP\Riley.jpg
+110,106,Khârn,Co-Gérant de L'escadron,asset\img\PP\a_z_a_t_h_o_t_h.webp
