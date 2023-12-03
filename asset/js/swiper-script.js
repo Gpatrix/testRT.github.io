@@ -32,11 +32,3 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
-
-const egg = document.getElementById("egg");
-let beat = new Audio('asset/js/audi.m4a');
-const eggButton = document.getElementById("Button");
-eggButton.addEventListener('click', function (e) {
-    e.preventDefault();
-    beat.play();
-});
