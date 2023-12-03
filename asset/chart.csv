@@ -1,13 +1,11 @@
-id,parentId,name,position,image
-100,,RushATom,Leader de la [RT],asset\img\PP\RushATom.webp
-101,100,Riley,Administrateur [RT],asset\img\PP\Riley.jpg
-102,101,Papy,Gérant du groupe Multigaming,asset\img\PP\Papy.webp
-110,102,Ewaiz,Co-Gérant du groupe,asset\img\PP\Ewaiz.webp
-103,101,Remzer,Gérant du régiment Post-Scriptum,asset\img\PP\Remzer.webp
-111,103,Non assigné,Co-Gérant du régiment,
-104,101,RushATom,Gérant du régiment Squad,asset\img\PP\RushAtom.webp
-110,104,Nalil0,Co-Gérant du régiment,asset\img\PP\Nalil0.webp
-105,101,Maitrecrabe,Gérant du régiment Arma,asset\img\PP\Maitrecrabe.webp
-110,105,Renai28,Co-Gérant du régiment,asset\img\PP\Renai28.webp
-106,101,Riley,Gérant de L'escadron War-Thunder,asset\img\PP\Riley.jpg
-110,106,Khârn,Co-Gérant de L'escadron,asset\img\PP\a_z_a_t_h_o_t_h.webp
+id,parentId,titre,position,image
+100,,Leader de la [RT],RushATom,asset\img\PP\RushATom.webp
+101,100,Etat-major Escafron War-Thunder,Riley,asset\img\PP\Riley.jpg
+102,100,Etat-major Régiment Squad,Nailo,asset\img\PP\Nalil0.webp
+103,100,Groupe d'administraion,Riley,asset\img\PP\Riley.jpg
+104,100,Etat-major Régiment  Post-Scriptum,Remzer,asset\img\PP\Remzer.webp
+105,100,Etat-major Régiment Arma,Maitrecrabe,asset\img\PP\Maitrecrabe.webp
+110,101,Second du régiment :,Khârn,asset\img\PP\Kharn.webp
+111,102,Second du régiment :,...,
+112,104,Second du régiment :,...,
+113,105,Second du régiment :,Renai28,asset\img\PP\Renai28.webp

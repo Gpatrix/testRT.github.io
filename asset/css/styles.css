@@ -96,7 +96,7 @@ body {
 #exp-div .explication{
     font-size: large;
     display: grid;
-    width: 31%;
+    width: 47%;
     text-align: left;
     grid-template-rows: 1fr auto;
     margin: 10px;
