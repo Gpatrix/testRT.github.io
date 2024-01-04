@@ -1,0 +1,123 @@
+{
+  "regiments": {
+    "en": "Our regiments",
+    "fr": "Nos régiments"
+  },
+  "equipe": {
+    "en": "The team",
+    "fr": "L'équipe"
+  },
+  "rejoindre": {
+    "en": "Join the [RT]",
+    "fr": "Rejoindre la [RT]"
+  },
+  "intro_regiments": {
+    "en": "The [RT] is divided into \"regiments\" all managed by a staff composed of 3 members [RT] in charge of its events and activities, the [RT] is present on War-Thunder, Squad 44 , Squad, Arma III, ...",
+    "fr": "La [RT] est divisée en \"régiments\" tous gérés par un état-major composé de 3 membres [RT] en charge des évènements et animations de celui-ci, la [RT] est présent sur War-Thunder, Squad 44, Squad, Arma III, ..."
+  },
+  "titre_regiment_Squad44": {
+    "en": "The Squad 44 regiment",
+    "fr": "Le régiment Squad 44"
+  },
+  "regiment_Squad44": {
+    "en": "The Squad 44 regiment has existed since 2021.<br>It is an FPS simulation game during the Second World War.<br>The main activities of the regiments are:<br>Intergames [RT] / Training / Matches / Events / ...<br>In addition the [RT] is European champion in armored vehicles on Squad 44<br>The management team of the Squad 44 regiment is made up of RushATom and Remzer",
+    "fr": "Le régiment Squad 44 existe depuis 2021.<br>C'est un jeu FPS de simulation durant la Seconde Guerre Mondiale.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Des matchs / Evènements / ...<br>De plus la [RT] est championne Européenne en blindée sur Squad 44<br>L'équipe de direction du régiment Squad 44 est composée de RushATom et Remzer "
+  },
+  "titre_regiment_Squad": {
+    "en": "The Squad Regiment",
+    "fr": "Le régiment Squad"
+  },
+  "regiment_Squad": {
+    "en": "The Squad regiment has existed since the end of 2022.<br>It is an FPS game simulating Modern Tactical Warfare.<br>The main activities of the regiments are:<br>Intergames [RT] / Training / Events / Events matches / ...<br>The management team of the Squad regiment is composed of Nalil0",
+    "fr": "Le régiment Squad existe depuis fin 2022.<br>C'est un jeu FPS de simulation de Guerre Moderne Tactique.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Evènements / Des matchs / ...<br>L'équipe de direction du régiment Squad est composée de Nalil0"
+  },
+  "titre_regiment_Arma": {
+    "en": "the Arma regiment",
+    "fr": "le régiment Arma"
+  },
+  "regiment_Arma": {
+    "en": "The Arma regiment has existed since January 2023.<br>It is an FPS game simulating Modern Tactical Warfare, be careful the gameplay has nothing to do with Squad.<br>The 2 games are extremely different.<br>The main activities of the regiments are:<br>Operations (like a video game campaign) created by the regiment manager.<br>The management team of the Arma regiment is made up of Maîtrecrabe and Renai28",
+    "fr": "Le régiment Arma existe depuis janvier 2023.<br>C'est un jeu FPS de simulation de Guerre Moderne Tactique, attention le gameplay n'a rien à voir avec Squad.<br>Les 2 jeux sont éxtrêmements différents.<br>Les principales activités du régiments sont:<br>Des opérations ( comme une campagne de jeu vidéo) créée par le gérant du régiment.<br>L'équipe de direction du régiment Arma est composée de Maîtrecrabe et de Renai28 "
+  },
+  "titre_regiment_War_Thunder": {
+    "en": "War-Thunder Squadron",
+    "fr": "L'escadron War-Thunder"
+  },
+  "regiment_War_Thunder": {
+    "en": "The War-Thunder squadron has existed since May 2023.<br>It is a Free-To-Play game based on the simulation of land and air motorized vehicle combat and naval combat.<br>The main activities of the squadron are:<br>Intergames [RT] / Training / Events / ...<br>The management team of the War-Thunder squadron is made up of Riley and Khârn",
+    "fr": "L'escadron War-Thunder existe depuis mai 2023.<br>C'est un jeu Free-To-Play basé sur la simulation de combats de véhicules motorisés terrestres, aériens et de combats naval.<br>Les principales activités de l'escadron sont:<br>Des games entres [RT] / Des entraînements / Evènements / ...<br>L'équipe de direction de l'escadron War-Thunder est composée de Riley et de Khârn"
+  },
+  "fonct_RT": {
+    "en": "Operation of [RT]",
+    "fr": "Fonctionnement de la [RT]"
+  },
+  "ex_fonct_RT": {
+    "en": "It has a leader who represents the team: RushATom, he manages the team as a whole, an administration group is there to help him, he is in charge of the economic and administrative aspect of the team , Riley is there to help him, plus he is also the manager of this administrative group.<br><br>The [RT] is divided into \"<a class=\"in-lk\" data-slide -index=\"0\" href=\"#\">regiments</a>\" all managed by a staff composed of 3 members [RT] in charge of its events and activities, the [ RT] is present on <NOBR>on War-Thunder</NOBR>, Squad 44, Squad, Arma III, ...",
+    "fr": "Elle possède un chef qui représente l'équipe: RushATom, il dirige l'équipe dans son ensemble de plus, un groupe d'administration est là pour l'aider, il est en charge de l'aspect économique et administratif de l'équipe, Riley est là pour l'aider, de plus il est aussi le gérant de ce groupe administratif.<br><br>La [RT] est divisée en \"<a class=\"in-lk\" data-slide-index=\"0\" href=\"#\">régiments</a>\" tous gérés par un état-major composé de 3 membres [RT] en charge des évènements et animations de celui-ci, la [RT] est présent sur <NOBR>sur War-Thunder</NOBR>, Squad 44, Squad, Arma III, ..."
+  },
+  "main": {
+    "en": "\"Good fellowship leads to Victory\"",
+    "fr": "\"La bonne camaraderie mène à la Victoire\""
+  },
+  "how_rejoindre": {
+    "en": "How to join the [RT]",
+    "fr": "Comment rejoindre la [RT]"
+  },
+  "ex_how_rejoindre": {
+    "en": "First, you must join the <a href=\"https://discord.gg/HxdCsGXbfs\">discord server</a>.<br>Once there, you will need to follow the steps that will be offered to you automatically on the server.<br>By following these steps you will have a \"ticket\". <br>Once in this \"ticket\" you will have to wait 48 hours before being able to have an \"interview\"<br>allowing you to join the [RT].",
+    "fr": "Dans un premier temps il faut rejoindre le <a href=\"https://discord.gg/HxdCsGXbfs\">serveur discord</a>.<br>Une fois dessus il vous faudra suivre les étapes qui vous seront proposés automatiquement sur le serveur.<br>En suivant ces étapes vous allez avoir un \"ticket\". <br>Un fois dans ce \"ticket\" il vous faudra attendre 48H avant de pouvoir passer un \"entretien\"<br>permettant d'intégrer la [RT]."
+  },
+  "leader": {
+    "en": "Leader's Channel:",
+    "fr": "Chaîne du Leader:"
+  },
+  "clique_L": {
+    "en": "Click here <img class=\"inv-svg-color\" style=\"-webkit-transform: scaleX(-1);transform: scaleX(-1);\" src=\"asset/img/ico/switch_access_shortcut_FILL0_wght100_GRAD0_opsz24.svg\" alt=\"top\">",
+    "fr": "Clique ici <img class=\"inv-svg-color\" style=\"-webkit-transform: scaleX(-1);transform: scaleX(-1);\" src=\"asset/img/ico/switch_access_shortcut_FILL0_wght100_GRAD0_opsz24.svg\" alt=\"en haut\">"
+  },
+  "clique_R": {
+    "en": "<img class=\"inv-svg-color\" src=\"asset/img/ico/switch_access_shortcut_FILL0_wght100_GRAD0_opsz24.svg\" alt=\"up top\">Click here",
+    "fr": "<img class=\"inv-svg-color\" src=\"asset/img/ico/switch_access_shortcut_FILL0_wght100_GRAD0_opsz24.svg\" alt=\"en haut\">Clique ici"
+  },
+  "mail": {
+    "en": "Our Email: <br><a href=\"mailto:Rushteamcontact@gmail.com\">Rushteamcontact@gmail.com</a>",
+    "fr": "Notre Mail: <br><a href=\"mailto:Rushteamcontact@gmail.com\">Rushteamcontact@gmail.com</a>"
+  },
+  "discord": {
+    "en": "The Discord:",
+    "fr": "Le Discord:"
+  },
+  "L_leader": {
+    "en": "Leader of the [RT]",
+    "fr": "Leader de la [RT]"
+  },
+  "L_E_War_Thunder": {
+    "en": "War-Thunder Squadron Headquarters",
+    "fr": "Etat-major Escadron War-Thunder"
+  },
+  "L_E_Squad": {
+    "en": "Squad Squadron Headquarters",
+    "fr": "Etat-major Régiment Squad"
+  },
+  "L_GA": {
+    "en": "Administration group",
+    "fr": "Groupe d'administration"
+  },
+  "L_E_Squad44": {
+    "en": "Squad 44 Squadron Headquarters",
+    "fr": "Etat-major Régiment Squad 44"
+  },
+  "L_E_Arma": {
+    "en": "Arma Squadron Headquarters",
+    "fr": "Etat-major Régiment Arma"
+  },
+  "L_S": {
+    "en": "Second of the regiment:",
+    "fr": "Second du régiment :"
+  },
+  "yt_RT": {
+    "en": "RT channel:",
+    "fr": "Chaine de la RT:"
+  }
+  
+}
