@@ -12,16 +12,16 @@
     "fr": "Rejoindre la [RT]"
   },
   "intro_regiments": {
-    "en": "The [RT] is divided into \"regiments\" all managed by a staff composed of 3 members [RT] in charge of its events and activities, the [RT] is present on War-Thunder, Squad 44 , Squad, Arma III, ...",
-    "fr": "La [RT] est divisée en \"régiments\" tous gérés par un état-major composé de 3 membres [RT] en charge des évènements et animations de celui-ci, la [RT] est présent sur War-Thunder, Squad 44, Squad, Arma III, ..."
+    "en": "The [RT] is divided into \"regiments\" all managed by a staff composed of 3 members [RT]: The leader of the [RT] (RushATom), a regiment commander, and his second. The commander and the second are in charge of the events and activities thereof, the leader is there to give the direction of the regiments; the [RT] is present on War-Thunder, Squad44, Squad, Arma III, ...",
+    "fr": "La [RT] est divisée en \"régiments\" tous gérés par un état-major composé de 3 membres [RT]: Le leader de la [RT] ( RushATom), un commandant de régiment, et son second. Le commandant et le second sont en charge des évènements et animations de celui-ci, le leader est là pour donner le fil directeur des régiments; la [RT] est présente sur War-Thunder, Squad44, Squad, Arma III, ..."
   },
   "titre_regiment_Squad44": {
     "en": "The Squad 44 regiment",
     "fr": "Le régiment Squad 44"
   },
   "regiment_Squad44": {
-    "en": "The Squad 44 regiment has existed since 2021.<br>It is an FPS simulation game during the Second World War.<br>The main activities of the regiments are:<br>Intergames [RT] / Training / Matches / Events / ...<br>In addition the [RT] is European champion in armored vehicles on Squad 44<br>The management team of the Squad 44 regiment is made up of RushATom and Remzer",
-    "fr": "Le régiment Squad 44 existe depuis 2021.<br>C'est un jeu FPS de simulation durant la Seconde Guerre Mondiale.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Des matchs / Evènements / ...<br>De plus la [RT] est championne Européenne en blindée sur Squad 44<br>L'équipe de direction du régiment Squad 44 est composée de RushATom et Remzer "
+    "en": "The Post-Scriptum regiment has existed since the end of 2020.<br>It is an FPS simulation game during the Second World War.<br>The main activities of the regiments are:<br>Intergames [RT] / Training / Matches / Events / ...<br>In addition the [RT] is champion at national and European level in armored vehicles on Squad44<br>The staff of this regiment is made up of:<br>Commander: Remzer [RT ]<br>Second: PapaCookie [RT]",
+    "fr": "Le régiment Post-Scriptum existe depuis fin 2020.<br>C'est un jeu FPS de simulation durant la Seconde Guerre Mondiale.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Des matchs / Evènements / ...<br>De plus la [RT] est championne au niveau national et européen en blindée sur Squad44<br>L'état major de ce régiment est composé de :<br>Commandant : Remzer [RT]<br>Second : PapaCookie [RT]"
   },
   "titre_regiment_Squad": {
     "en": "The Squad Regiment",
@@ -29,7 +29,7 @@
   },
   "regiment_Squad": {
     "en": "The Squad regiment has existed since the end of 2022.<br>It is an FPS game simulating Modern Tactical Warfare.<br>The main activities of the regiments are:<br>Intergames [RT] / Training / Events / Events matches / ...<br>The management team of the Squad regiment is composed of Nalil0",
-    "fr": "Le régiment Squad existe depuis fin 2022.<br>C'est un jeu FPS de simulation de Guerre Moderne Tactique.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Evènements / Des matchs / ...<br>L'équipe de direction du régiment Squad est composée de Nalil0"
+    "fr": "Le régiment Squad existe depuis fin 2022.<br>C'est un jeu FPS de simulation de Guerre Moderne Tactique.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Evènements / Des matchs / ...<br>L'état major de ce régiment est composé de :<br>Commandant : Nalil0 [RT]<br>Second : Ptitkiwi [RT]"
   },
   "titre_regiment_Arma": {
     "en": "the Arma regiment",
@@ -44,8 +44,8 @@
     "fr": "L'escadron War-Thunder"
   },
   "regiment_War_Thunder": {
-    "en": "The War-Thunder squadron has existed since May 2023.<br>It is a Free-To-Play game based on the simulation of land and air motorized vehicle combat and naval combat.<br>The main activities of the squadron are:<br>Intergames [RT] / Training / Events / ...<br>The management team of the War-Thunder squadron is made up of Riley and Khârn",
-    "fr": "L'escadron War-Thunder existe depuis mai 2023.<br>C'est un jeu Free-To-Play basé sur la simulation de combats de véhicules motorisés terrestres, aériens et de combats naval.<br>Les principales activités de l'escadron sont:<br>Des games entres [RT] / Des entraînements / Evènements / ...<br>L'équipe de direction de l'escadron War-Thunder est composée de Riley et de Khârn"
+    "en": "The War-Thunder squadron has existed since May 2023.<br>It is a Free-To-Play game based on the simulation of land and air motorized vehicle combat and naval combat.<br>The main activities of the War-Thunder squadron squadron are:<br>Intergames [RT] / Training / Events / ...<br>The staff of this regiment is made up of:<br>Commander (replacement): Kharn [RT]<br> Second (substitute): LeoMajor [RT]",
+    "fr": "L'escadron War-Thunder existe depuis mai 2023.<br>C'est un jeu Free-To-Play basé sur la simulation de combats de véhicules motorisés terrestres, aériens et de combats naval.<br>Les principales activités de l'escadron sont:<br>Des games entres [RT] / Des entraînements / Evènements / ...<br>L'état major de ce régiment est composé de :<br>Commandant ( remplaçant) : Kharn [RT]<br>Second (remplaçant) : LeoMajor [RT]"
   },
   "fonct_RT": {
     "en": "Operation of [RT]",
