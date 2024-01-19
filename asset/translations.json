@@ -31,14 +31,6 @@
     "en": "The Squad regiment has existed since the end of 2022.<br>It is an FPS game simulating Modern Tactical Warfare.<br>The main activities of the regiments are:<br>Intergames [RT] / Training / Events / Events matches / ...<br>The management team of the Squad regiment is composed of Nalil0",
     "fr": "Le régiment Squad existe depuis fin 2022.<br>C'est un jeu FPS de simulation de Guerre Moderne Tactique.<br>Les principales activités du régiments sont:<br>Des games entres [RT] / Des entraînements / Evènements / Des matchs / ...<br>L'état major de ce régiment est composé de :<br>Commandant : Nalil0 [RT]<br>Second : Ptitkiwi [RT]"
   },
-  "titre_regiment_Arma": {
-    "en": "the Arma regiment",
-    "fr": "le régiment Arma"
-  },
-  "regiment_Arma": {
-    "en": "The Arma regiment has existed since January 2023.<br>It is an FPS game simulating Modern Tactical Warfare, be careful the gameplay has nothing to do with Squad.<br>The 2 games are extremely different.<br>The main activities of the regiments are:<br>Operations (like a video game campaign) created by the regiment manager.<br>The management team of the Arma regiment is made up of Maîtrecrabe and Renai28",
-    "fr": "Le régiment Arma existe depuis janvier 2023.<br>C'est un jeu FPS de simulation de Guerre Moderne Tactique, attention le gameplay n'a rien à voir avec Squad.<br>Les 2 jeux sont éxtrêmements différents.<br>Les principales activités du régiments sont:<br>Des opérations ( comme une campagne de jeu vidéo) créée par le gérant du régiment.<br>L'équipe de direction du régiment Arma est composée de Maîtrecrabe et de Renai28 "
-  },
   "titre_regiment_War_Thunder": {
     "en": "War-Thunder Squadron",
     "fr": "L'escadron War-Thunder"
@@ -52,8 +44,8 @@
     "fr": "Fonctionnement de la [RT]"
   },
   "ex_fonct_RT": {
-    "en": "It has a leader who represents the team: RushATom, he manages the team as a whole, an administration group is there to help him, he is in charge of the economic and administrative aspect of the team , Riley is there to help him, plus he is also the manager of this administrative group.<br><br>The [RT] is divided into \"<a class=\"in-lk\" data-slide -index=\"0\" href=\"#\">regiments</a>\" all managed by a staff composed of 3 members [RT] in charge of its events and activities, the [ RT] is present on <NOBR>on War-Thunder</NOBR>, Squad 44, Squad, Arma III, ...",
-    "fr": "Elle possède un chef qui représente l'équipe: RushATom, il dirige l'équipe dans son ensemble de plus, un groupe d'administration est là pour l'aider, il est en charge de l'aspect économique et administratif de l'équipe, Riley est là pour l'aider, de plus il est aussi le gérant de ce groupe administratif.<br><br>La [RT] est divisée en \"<a class=\"in-lk\" data-slide-index=\"0\" href=\"#\">régiments</a>\" tous gérés par un état-major composé de 3 membres [RT] en charge des évènements et animations de celui-ci, la [RT] est présent sur <NOBR>sur War-Thunder</NOBR>, Squad 44, Squad, Arma III, ..."
+    "en": "The [RT] is divided into \"<a class=\"in-lk\" data-slide-index=\"0\" href=\"#\">regiments</a>\" all managed by a staff composed of 3 members [RT]:<br>• The leader of the [RT], he gives the axis that the regiments must take.<br>• The commander of the regiment, he manages the regiment as a whole <br>• The second of the regiment the [RT] is charged by his commander with various tasks (recruitment pole, communication,...)<br>In addition the [RT] is present on War-Thunder, Squad 44, Squad ,...",
+    "fr": "La [RT] est divisée en \"<a class=\"in-lk\" data-slide-index=\"0\" href=\"#\">régiments</a>\" tous gérés par un état-major composé de 3 membres [RT]:<br>• Le leader de la [RT], il donne l'axe que les régiments doivent prendre.<br>• Le commandant du régiment, il gère le régiment dans son ensemble<br>• Le second du régiment la [RT] est chargé par son commandant de différentes tâches ( pole recrutement, communication,...)<br>De plus la [RT] est présente sur War-Thunder, Squad 44, Squad,..."
   },
   "main": {
     "en": "\"Good fellowship leads to Victory\"",

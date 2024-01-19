@@ -1,11 +1,8 @@
 id,parentId,titre,position,image,trad
 100,,Leader de la [RT],RushATom,asset\img\PP\RushATom.webp,L_leader
-101,100,Etat-major Escadron War-Thunder,Riley,asset\img\PP\Riley.jpg,L_E_war_Thunder
+101,100,Etat-major Escadron War-Thunder,Khârn,asset\img\PP\Kharn.webp,L_E_war_Thunder
 102,100,Etat-major Régiment Squad,Nailo,asset\img\PP\Nalil0.webp,L_E_Squad
-103,100,Groupe d'administration,Riley,asset\img\PP\Riley.jpg,L_GA
 104,100,Etat-major Régiment Squad 44,Remzer,asset\img\PP\Remzer.webp,L_E_Squad44
-105,100,Etat-major Régiment Arma,Maitrecrabe,asset\img\PP\Maitrecrabe.webp,L_E_Arma
-110,101,Second du régiment :,Khârn,asset\img\PP\Kharn.webp,L_S
-111,102,Second du régiment :,...,,L_S
-112,104,Second du régiment :,...,,L_S
-113,105,Second du régiment :,Renai28,asset\img\PP\Renai28.webp,L_S
+110,101,Second du régiment :,LeoMajor,asset\img\PP\LeoMajor.webp,L_S
+111,102,Second du régiment :,Ptit_Kiwi,asset\img\PP\ptit_kiwi974.webp,L_S
+112,104,Second du régiment :,PapaCookie,asset\img\PP\PapaCookie.webp,L_S
